@@ -30,10 +30,14 @@ The cumulative [arithmetic mean][arithmetic-mean] of absolute values is defined 
 
 <!-- <equation class="equation" label="eq:cumulative_arithmetic_mean_absolute_values" align="center" raw="\bar{x}_n = \frac{1}{n} \sum_{i=0}^n |x_i|" alt="Equation for the cumulative arithmetic mean of absolute values."> -->
 
-<div class="equation" align="center" data-raw-text="\bar{x}_n = \frac{1}{n} \sum_{i=0}^n |x_i|" data-equation="eq:cumulative_arithmetic_mean_absolute_values">
+```math
+\bar{x}_n = \frac{1}{n} \sum_{i=0}^n |x_i|
+```
+
+<!-- <div class="equation" align="center" data-raw-text="\bar{x}_n = \frac{1}{n} \sum_{i=0}^n |x_i|" data-equation="eq:cumulative_arithmetic_mean_absolute_values">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@5979d3a5ef6baf7af9747de0630d8101a025da65/lib/node_modules/@stdlib/stats/iter/cumeanabs/docs/img/equation_cumulative_arithmetic_mean_absolute_values.svg" alt="Equation for the cumulative arithmetic mean of absolute values.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -227,7 +231,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
