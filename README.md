@@ -65,7 +65,7 @@ The cumulative [arithmetic mean][arithmetic-mean] of absolute values is defined 
 ## Usage
 
 ```javascript
-import itercumeanabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-iter-cumeanabs@deno/mod.js';
+import itercumeanabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-iter-cumeanabs@v0.2.2-deno/mod.js';
 ```
 
 #### itercumeanabs( iterator )
@@ -120,7 +120,7 @@ m = it.next().value;
 
 ```javascript
 import runif from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-uniform@deno/mod.js';
-import itercumeanabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-iter-cumeanabs@deno/mod.js';
+import itercumeanabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-iter-cumeanabs@v0.2.2-deno/mod.js';
 
 // Create an iterator for generating uniformly distributed pseudorandom numbers:
 var rand = runif( -10.0, 10.0, {
